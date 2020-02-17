@@ -1,1 +1,3 @@
-"## Hello World in Scala" 
+## Hello World
+
+Hello world program in Scala
